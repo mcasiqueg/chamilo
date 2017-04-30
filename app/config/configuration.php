@@ -43,7 +43,7 @@ $_configuration['db_manager_enabled'] = false;
  * Directory settings
  */
 // URL to the root of your Chamilo installation, e.g.: http://www.mychamilo.com/
-$_configuration['root_web'] = 'http://ec2-34-208-129-191.us-west-2.compute.amazonaws.com/';
+$_configuration['root_web'] = 'eblmcasique-355250399.us-west-2.elb.amazonaws.com';
 
 // Path to the webroot of system, example: /var/www/
 $_configuration['root_sys'] = '/var/www/html/';
